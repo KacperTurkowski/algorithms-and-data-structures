@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.*;
 public class Graph{
-    private final static int size=501;
+    private final static int size=8;
     private My_List NList;
     private Graph(My_List list){
         this.NList=list;
